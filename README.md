@@ -52,6 +52,10 @@ See [METHODOLOGY.md](METHODOLOGY.md) for the 5-phase review approach used.
 
 See [DISCLAIMER.md](DISCLAIMER.md) for important legal and ethical notices.
 
+## Acknowledgment
+
+I would like to thank the Fluid engineering team for building a highly robust and thoughtfully designed codebase. This audit involved an in-depth, line-by-line analysis of cross-module invariants, reentrancy boundaries, and BigMath precision trade-offs, and it was clear throughout that the protocol reflects strong defensive engineering practices.
+
 ## Author
 
 Independent security research conducted January 2026.
